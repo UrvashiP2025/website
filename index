@@ -7,8 +7,9 @@
     <h1>hello, world</h1>
     <a href="about">About this project</a>
     <p>Call me Ishmael.</p>	
-   
-  <img src="whale.jpg" alt="Whale">
 
+    <a href="https://creativecommons.org/licenses/by-nd/2.0/">
+  <img src="whale.jpg" alt="Whale">
+	</a>
   </body>
 </html>
